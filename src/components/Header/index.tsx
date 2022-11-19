@@ -4,7 +4,7 @@ import { Container } from './styles';
 export default function Header() {
   return (
     <Container>
-      <img src={logo} alt="" />
+      <img src={logo} alt="Get Me Localized" />
     </Container>
   );
 }
